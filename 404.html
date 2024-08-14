@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <base href="./" />
+        <base href="/debug-taiga-gh-pages/" />
         <meta charset="utf-8" />
         <title>Taiga UI</title>
         <script>
@@ -15,14 +15,15 @@
                 location.href = location.origin;
             } else {
                 const url = `${location.pathname}${location.search}${location.hash}`;
-                const appPath = url.replace(/^\/(next|v[0-9]+)\//, ``);
+                const appPath = url.replace(/^\/debug-taiga-gh-pages\/(next|v[0-9]+)\//, ``);
                 const segments = url.split('/').filter(Boolean);
-                const version = segments[0] || ``;
-                const redirectUrl = /^(next|v[0-9]+)$/.test(version) ? `/${version}` : `/`;
+                const version = segments[1] || ``;
+                const redirectUrl = /^(next|v[0-9]+)$/.test(version) ? `/debug-taiga-gh-pages/${version}` : `/`;
 
                 // @note: use preserve log for debug
                 console.log(`[404.html]: Try navigate to '${url}'`);
                 console.log(`[404.html]: Application path '${appPath}'`);
+                console.log(`[404.html]: Redirect url '${redirectUrl}'`);
 
                 localStorage.setItem('env', appPath);
                 location.replace(redirectUrl);
