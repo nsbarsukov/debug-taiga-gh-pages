@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[20749],{49288:(s,u,E)=>{E.r(u),E.d(u,{TUI_KOREAN_LANGUAGE_ADDON_COMMERCE:()=>n});const n={cardNumber:["\uc22b\uc790","\uce74\ub4dc\ubc88\ud638"],cardExpiry:["\ub9cc\ub8cc","\uc720\ud6a8 \uae30\uac04:"]}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[6911],{20553:(A,e,s)=>{s.r(e),s.d(e,{TUI_KOREAN_LANGUAGE_ADDON_TABLE:()=>n});const n={showHideText:"\ud45c\uc2dc \ub610\ub294 \uc228\uae30\uae30",paginationTexts:{pages:"\ud398\uc774\uc9c0",linesPerPage:"\ud398\uc774\uc9c0\ub2f9 \uc904 \uc218",of:"~\uc758"}}}}]);

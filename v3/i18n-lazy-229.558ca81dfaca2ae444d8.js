@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[86874],{9002:(s,a,n)=>{n.r(a),n.d(a,{TUI_MALAY_LANGUAGE_ADDON_TABLE:()=>e});const e={showHideText:"Tunjuk/Sembunyi",paginationTexts:{pages:"Halaman",linesPerPage:"Baris setiap halaman",of:"dari"}}}}]);

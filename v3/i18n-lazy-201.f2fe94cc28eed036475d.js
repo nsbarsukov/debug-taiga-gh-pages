@@ -1,1 +1,0 @@
-(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[20749],{49288:(_,a,c)=>{c.r(a),c.d(a,{TUI_KOREAN_LANGUAGE_ADDON_COMMERCE:()=>e});const e={cardNumber:["숫자","카드번호"],cardExpiry:["만료","유효 기간:"]}}}]);

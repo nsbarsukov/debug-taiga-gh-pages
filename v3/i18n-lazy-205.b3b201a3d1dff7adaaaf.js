@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[42682],{55902:(s,e,o)=>{o.r(e),o.d(e,{TUI_KOREAN_LANGUAGE_ADDON_PREVIEW:()=>t});const t={previewTexts:{rotate:"\ud68c\uc804\ud558\ub2e4"},zoomTexts:{zoomOut:"\ucd95\uc18c",zoomIn:"\ud655\ub300\ud558\ub2e4",reset:"\ub2e4\uc2dc \ub193\uae30"}}}}]);

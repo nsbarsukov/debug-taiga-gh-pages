@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[25849],{25849:t=>{t.exports='```html\n<div tuiComment="bottom">comment</div>\n```\n'}}]);

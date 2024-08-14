@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[44460],{44460:t=>{t.exports='```html\n<tui-action-bar *tuiActionBar="open">content</tui-action-bar>\n```\n'}}]);

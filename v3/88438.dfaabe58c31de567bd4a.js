@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[88438],{88438:t=>{t.exports='```html\n<span [tuiSensitive]="true">text</span>\n```\n'}}]);

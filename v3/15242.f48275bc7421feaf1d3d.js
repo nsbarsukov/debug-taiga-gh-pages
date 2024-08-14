@@ -1,1 +1,0 @@
-(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[15242],{15242:n=>{n.exports="tui-action-bar {\n    background: var(--tui-support-13);\n    left: 3rem;\n    right: 3rem;\n}\n"}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[58507],{58507:n=>{n.exports="```ts\nimport {TuiActionBarModule} from '@taiga-ui/experimental';\n\n// ...\n\n@NgModule({\n  imports: [\n    // ...\n    TuiActionBarModule,\n  ],\n  // ...\n})\nexport class AppModule {}\n```\n"}}]);

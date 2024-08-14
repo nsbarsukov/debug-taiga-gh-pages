@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[68053],{76934:(s,e,o)=>{o.r(e),o.d(e,{TUI_JAPAN_LANGUAGE_ADDON_PREVIEW:()=>t});const t={previewTexts:{rotate:"\u56de\u8ee2"},zoomTexts:{zoomOut:"\u30ba\u30fc\u30e0\u30a2\u30a6\u30c8\u3059\u308b",zoomIn:"\u30ba\u30fc\u30e0\u30a4\u30f3",reset:"\u30ea\u30bb\u30c3\u30c8"}}}}]);

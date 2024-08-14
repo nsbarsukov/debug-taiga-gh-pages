@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[4790],{10490:(s,e,u)=>{u.r(e),u.d(e,{TUI_MALAY_LANGUAGE_ADDON_PREVIEW:()=>t});const t={previewTexts:{rotate:"Putar"},zoomTexts:{zoomOut:"Zum keluar",zoomIn:"Zum masuk",reset:"Set semula"}}}}]);
